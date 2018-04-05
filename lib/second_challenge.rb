@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-
-  
+nested_array=groceries.values
+nested_array.flatten(1)
 
 end
